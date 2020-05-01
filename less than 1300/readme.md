@@ -40,6 +40,8 @@ I didn't do anything fancy here. Maybe I could have used set or something. all I
 
 Link:https://codeforces.com/problemset/problem/275/A
 
+Kya hi faltu sum tha. Had to do so much work. Brute force.
+
 Simple implementation.
 
 7. Word
@@ -100,7 +102,7 @@ Link: https://codeforces.com/problemset/problem/200/B
 
 Simple percentage sum
 
-16. 	Insomnia cure 
+16. Insomnia cure 
 
 Link: https://codeforces.com/problemset/problem/148/A
 
@@ -128,9 +130,39 @@ Simple add subtract
 
 20. Helpful Maths
 
-Link:https://codeforces.com/problemset/problem/339/A
+Link: https://codeforces.com/problemset/problem/339/A
 
 I just counted the number of 1,2 ans 3s.
 
+21. Is your horseshoe on the other hoof?
+
+Link: https://codeforces.com/problemset/problem/228/A
+
+Insert all numbers in a set. Answer is 4-size of set
+
+22. Way Too Long Words
+
+Link: https://codeforces.com/problemset/problem/71/A
+
+Simple if else
+
+23. Boy or Girl
+
+Link: https://codeforces.com/problemset/problem/236/A
+
+Simple .use set
+
+24. Amusing Joke
+
+Link: https://codeforces.com/problemset/problem/141/A
+
+So I did this using hash earlier. Thought of doing the same .
+But then saw a brilliant solution. Just add the two strings. sort them.
+Then check if same or not
 
 
+25. Soft Drinking
+
+Link: https://codeforces.com/problemset/problem/151/A
+
+Simple maths sum
