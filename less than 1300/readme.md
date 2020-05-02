@@ -166,3 +166,7 @@ Then check if same or not
 Link: https://codeforces.com/problemset/problem/151/A
 
 Simple maths sum
+
+26. HQ9+
+
+Link: http://codeforces.com/problemset/problem/133/A
