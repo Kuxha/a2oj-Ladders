@@ -170,3 +170,11 @@ Simple maths sum
 26. HQ9+
 
 Link: http://codeforces.com/problemset/problem/133/A
+
+Simple if else
+
+27. Petya and Strings
+
+Link: http://codeforces.com/problemset/problem/112/A
+
+Simple if else. 
