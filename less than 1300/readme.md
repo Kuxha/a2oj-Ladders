@@ -177,4 +177,18 @@ Simple if else
 
 Link: http://codeforces.com/problemset/problem/112/A
 
-Simple if else. 
+Simple if else.
+
+28. Team
+
+Link: http://codeforces.com/problemset/problem/231/A
+
+Easy
+
+29. Bit++
+
+Link:http://codeforces.com/problemset/problem/282/A
+
+You just need to check the characters
+
+30.  
