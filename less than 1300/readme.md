@@ -191,4 +191,8 @@ Link:http://codeforces.com/problemset/problem/282/A
 
 You just need to check the characters
 
-30.  
+30. Effective Approach
+
+Link: http://codeforces.com/problemset/problem/227/B
+
+Easy sum. My logic was correct ,got it wrong at first due to long long. 
