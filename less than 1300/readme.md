@@ -196,3 +196,15 @@ You just need to check the characters
 Link: http://codeforces.com/problemset/problem/227/B
 
 Easy sum. My logic was correct ,got it wrong at first due to long long. 
+
+31. Dima and Friends
+
+Link: http://codeforces.com/problemset/problem/272/A
+
+32. Jzzhu and Children
+
+Link: http://codeforces.com/problemset/problem/450/A
+
+33. Supercentral Point
+
+Link: http://codeforces.com/problemset/problem/165/A
