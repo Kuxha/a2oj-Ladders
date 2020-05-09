@@ -201,10 +201,31 @@ Easy sum. My logic was correct ,got it wrong at first due to long long.
 
 Link: http://codeforces.com/problemset/problem/272/A
 
+First we need to get the sum of all the other fingers put up.
+Then. One by one just check what happens if we add 1,2,3,4 or 5. and only if they divide totally, we can be sure that we wont get chosen.
+
 32. Jzzhu and Children
 
 Link: http://codeforces.com/problemset/problem/450/A
 
+Simple while loop. 
+But I coul have done using deque and pairs. 
+Did it again using dequeue and pairs.
+
 33. Supercentral Point
 
 Link: http://codeforces.com/problemset/problem/165/A
+
+Simple two for loops and use of variables.
+
+34. Petr and Book
+
+Link: http://codeforces.com/problemset/problem/139/A
+
+Simple for loop
+
+35. Parallelepiped
+
+Link: http://codeforces.com/problemset/problem/224/A
+
+
