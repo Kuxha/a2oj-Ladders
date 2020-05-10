@@ -228,4 +228,28 @@ Simple for loop
 
 Link: http://codeforces.com/problemset/problem/224/A
 
+Write the areas down in paper.  
+
+36. Reconnaissance 2
+
+Link: http://codeforces.com/contest/34/problem/A
+
+Make a diff array. and modulus ka chakkar
+
+
+37. Even Odds
+
+Link: https://codeforces.com/problemset/problem/318/A
+
+Simple implementation .The trick here was to not think too much.
+
+38. Little Elephant and Rozdil
+
+Link: https://codeforces.com/problemset/problem/205/A
+
+Easy
+
+39. Hexadecimal's theorem
+
+Link: https://codeforces.com/problemset/problem/199/A
 
