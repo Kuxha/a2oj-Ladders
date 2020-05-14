@@ -283,4 +283,26 @@ Link: http://codeforces.com/problemset/problem/43/A
 
 Learnt 
 
-45. 
+45. Bicycle Chain
+
+Link: http://codeforces.com/contest/215/problem/A
+
+46. Sale
+
+Link: http://codeforces.com/problemset/problem/34/B
+
+47. System of Equations
+
+Link: http://codeforces.com/problemset/problem/214/A
+
+48. Business Trip
+
+Link: http://codeforces.com/problemset/problem/149/A
+
+49.  k-String
+
+Link: https://codeforces.com/problemset/problem/219/A
+
+50.  Dubstep
+
+Link: https://codeforces.com/problemset/problem/208/A
