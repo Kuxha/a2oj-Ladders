@@ -253,3 +253,34 @@ Easy
 
 Link: https://codeforces.com/problemset/problem/199/A
 
+Lol.This problem be
+
+40. Jeff and Digits
+
+Link: https://codeforces.com/problemset/problem/352/A
+
+no zeros mean not divisible.
+number of 5s must be a divisble of 9. after that add as many zeros 
+
+
+41. Xenia and Ringroad
+
+Link: https://codeforces.com/problemset/problem/339/B
+
+This was sorta tough.
+
+42. Magic Numbers
+
+Link: http://codeforces.com/problemset/problem/320/A
+
+43. Translation
+
+Link: http://codeforces.com/problemset/problem/41/A
+
+44. Football
+
+Link: http://codeforces.com/problemset/problem/43/A
+
+Learnt 
+
+45. 
