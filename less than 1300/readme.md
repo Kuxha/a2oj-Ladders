@@ -306,3 +306,56 @@ Link: https://codeforces.com/problemset/problem/219/A
 50.  Dubstep
 
 Link: https://codeforces.com/problemset/problem/208/A
+
+
+
+-----------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------
+
+
+
+51. The number of positions
+
+Link: https://codeforces.com/problemset/problem/124/A
+
+Solve on paper. You'll know
+
+52. Football
+
+Link: https://codeforces.com/problemset/problem/96/A
+
+simple string find and string npos
+
+53.
+
+
+54.
+
+
+55. Present from Lena
+
+Link: https://codeforces.com/problemset/problem/118/B
+
+
+
+ 
