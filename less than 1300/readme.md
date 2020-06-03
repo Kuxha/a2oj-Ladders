@@ -346,16 +346,71 @@ Link: https://codeforces.com/problemset/problem/96/A
 
 simple string find and string npos
 
-53.
+53. String Task
 
+Link: https://codeforces.com/problemset/problem/118/A
 
-54.
+simple vowels find. and just cout
 
+54. Little Elephant and Function
+
+Link: https://codeforces.com/problemset/problem/221/A
+
+Since its a permutation of integers from 1 to n. and we sort them
+.So
 
 55. Present from Lena
 
 Link: https://codeforces.com/problemset/problem/118/B
 
+Simple diamond
 
 
- 
+56. Dragons
+
+Link: https://codeforces.com/problemset/problem/230/A
+
+Used vector for the first time. And also learnt about how to iterate a vector. very cool
+
+57. Puzzles
+
+Link: https://codeforces.com/problemset/problem/337/A
+
+simple
+
+58. Chat room
+
+Link: https://codeforces.com/problemset/problem/58/A
+
+simple for loop and count
+
+59. Airport
+
+Link: https://codeforces.com/problemset/problem/218/B
+
+Used a priority queue for the first time. Simple sum. 
+
+60. DZY Loves Chessboard
+
+Link: https://codeforces.com/problemset/problem/445/A
+
+Nice sum. Logical answer. 
+Every alternate must be B or W basically.
+
+61. Pashmak and flowers
+
+Link: https://codeforces.com/problemset/problem/459/B
+
+Maximal differnece  = diff btw max and min. Then just find out how many times min and max appears.
+
+62. Jeff and Periods
+
+Link: https://codeforces.com/problemset/problem/352/B
+
+Great sum. So you basically need to keep track of all of them
+
+63. Little Girl and Game
+
+Link: https://codeforces.com/problemset/problem/276/B
+
+The key thing to notice in this task is, if we can arrange the characters of the string we have into a palindrome, then there can be at most one character with an odd amount of occurences. This easily gives us the answer: if there are <= 1 characters with an odd amount of occurences in the initial string, then the winner is the first player. Otherwise, the answer is dependant on whether the amount of characters with odd amounts of occurences is even or odd; if it's even then the second player wins, otherwise the first player wins (since the one who is forced to get this amount to one first is going to lose).
