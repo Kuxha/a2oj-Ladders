@@ -414,3 +414,17 @@ Great sum. So you basically need to keep track of all of them
 Link: https://codeforces.com/problemset/problem/276/B
 
 The key thing to notice in this task is, if we can arrange the characters of the string we have into a palindrome, then there can be at most one character with an odd amount of occurences. This easily gives us the answer: if there are <= 1 characters with an odd amount of occurences in the initial string, then the winner is the first player. Otherwise, the answer is dependant on whether the amount of characters with odd amounts of occurences is even or odd; if it's even then the second player wins, otherwise the first player wins (since the one who is forced to get this amount to one first is going to lose).
+
+
+64. Sail
+
+Link: https://codeforces.com/problemset/problem/298/B
+
+greedy karo.
+
+65. Shower Line
+
+Link: https://codeforces.com/contest/431/problem/B
+
+Nice sum. Learned about next permutation in c++
+Rest was just brute force
