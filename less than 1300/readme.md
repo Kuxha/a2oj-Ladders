@@ -40,7 +40,7 @@ I didn't do anything fancy here. Maybe I could have used set or something. all I
 
 Link:https://codeforces.com/problemset/problem/275/A
 
-Kya hi faltu sum tha. Had to do so much work. Brute force.
+ Brute force.
 
 Simple implementation.
 
