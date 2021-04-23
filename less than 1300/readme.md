@@ -2,8 +2,11 @@
 
 Link:https://codeforces.com/problemset/problem/69/A
 
-This was a simple greedy problem . Nothig much to learn.
-Just add up all and check if they are zero or not
+Keep three variables. Keep adding them as we iterate.
+In the end we check if they are all zer oor not.
+
+Rate : *
+Revision : Not needed
 
 2. Beautiful Matrix
 
