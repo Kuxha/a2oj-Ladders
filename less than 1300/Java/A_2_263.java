@@ -5,23 +5,26 @@ public class A_2_263 {
         
 
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
 
+        int cell = 0;
+        int res = 0;
 
-        int coordinates[] = new int[]{0,0,0};
-        for (int i = 0; i < n; i++) {
-            for(int j=0;j<3;j++){
-                coordinates[j] = coordinates[j] + sc.nextInt();
+        for (int i = 0; i < 5; i++) {
+            for(int j=0;j<5;j++){
+           
+
+                cell =  sc.nextInt();
+                if(cell!=0){
+                    res = Math.abs(2-i)+ Math.abs(2-j);
+                    System.out.println(res);
+                    return;
+                }
+
+                
             }
         }
-        sc.close();
-        for(int j=0;j<3;j++){
-            if(coordinates[j]!=0){
-                System.out.println("NO");
-                return;
-            }
-        }
-       
+   
+   
 
         System.out.println("YES");
 
